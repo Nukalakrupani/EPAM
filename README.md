@@ -1,3 +1,3 @@
 # EPAM
-This is EPAM repository
+This is EPAM repository...
 
